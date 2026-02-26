@@ -9,6 +9,7 @@ from microbit import *
 
 # setup
 display.clear()
+
 display.show(Image.HAPPY)
 
 while True:
