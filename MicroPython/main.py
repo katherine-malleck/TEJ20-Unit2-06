@@ -6,7 +6,6 @@ Turns an LED on a breadboard on and off.
 
 from microbit import *
 
-
 # setup
 display.clear()
 
